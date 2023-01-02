@@ -8,7 +8,6 @@ body {
 /*     background-image:background.jpg; */
     background: url(/background.jpg);
     background-size: cover;
-    /* overflow: hidden; */
     height: 100vh;
 }
 
