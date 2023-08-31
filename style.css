@@ -7,7 +7,6 @@
 body {
     background: url(./img/background.jpg);
     background-size: cover;
-    /* overflow: hidden; */
     height: 100vh;
 }
 
@@ -21,7 +20,6 @@ body {
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    align-content: center;
 }
 
 .date-container {
